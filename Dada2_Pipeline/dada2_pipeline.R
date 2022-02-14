@@ -8,7 +8,7 @@ packageVersion("dada2")
 #setwd("path to working directory")
 data <- "/data/accredetation/16S/test/Data/set5"  
 
-list.files(data) #make sure what we think is here is actually here
+list.files(data) #make sure what we think is here, is actually here.
 
 ## first we're setting a few variables we're going to use ##
 # one with all sample names, by scanning our "samples" file we made earlier
