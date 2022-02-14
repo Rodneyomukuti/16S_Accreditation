@@ -1,6 +1,6 @@
 #! usr/bin/env Rscript
 library(profvis)
-#document the resources used ant time it takes
+#document the resources used and time it takes
 profvis({
 library(dada2)
 packageVersion("dada2") 
